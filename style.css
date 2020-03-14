@@ -82,7 +82,7 @@ body {
     margin-right: -0.55rem;
     padding-left: 0.55rem;
     padding-right: 0.55rem;
-    transition: background-size 1s 1.5s ease;
+    transition: background-size 1s 3.5s ease;
   }
   
   .heading-container h1 span.green-heading-bg.show {
