@@ -31,6 +31,7 @@ body {
     -moz-user-select: -moz-none;
     -o-user-select: none;
     user-select: none;
+    overflow: hidden;
   }
   
   
